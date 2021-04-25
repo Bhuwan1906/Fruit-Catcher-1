@@ -1,1 +1,2 @@
-# Fruit-Catcher-1
+# C39-Project
+ Debugged fruit collector-1
